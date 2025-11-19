@@ -1,6 +1,7 @@
 Frontend: Next.js 14 (React) - App Router
   - Hosting: Vercel (Bahrain region)
   - Styling: Tailwind CSS + custom CSS for RTL
+  - Brand Colors: Blue/Orange (differentiate from Yalla's green)
   - Images: Cloudflare Images
   - Fonts: Noto Sans Arabic (Google Fonts)
 
@@ -12,4 +13,4 @@ Backend: Supabase
 
 QR Codes: qrcode.js library
 Payments: Moyasar payment gateway
-Analytics: Mixpanel (but you can use Plausible)
+Analytics: Plausible or Google Analytics
