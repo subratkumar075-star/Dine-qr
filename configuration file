@@ -1,0 +1,15 @@
+Frontend: Next.js 14 (React) - App Router
+  - Hosting: Vercel (Bahrain region)
+  - Styling: Tailwind CSS + custom CSS for RTL
+  - Images: Cloudflare Images
+  - Fonts: Noto Sans Arabic (Google Fonts)
+
+Backend: Supabase
+  - Authentication: Supabase Auth (email + Google)
+  - Database: PostgreSQL
+  - Storage: Supabase Storage (menu images)
+  - Real-time: Supabase Realtime (live menu updates)
+
+QR Codes: qrcode.js library
+Payments: Moyasar payment gateway
+Analytics: Mixpanel (but you can use Plausible)
